@@ -62,7 +62,7 @@
 
 <h2>Projects</h2>
 <ul>
-  <li><a href="https://github.com/morsa-io/mb-mcp">mb-mcp</a> - MCP server for agent integration</li>
+  <li><a href="https://github.com/morsa-dev/mb-mcp">mb-mcp</a> - MCP server for agent integration</li>
 </ul>
 
 <h2>Links</h2>
