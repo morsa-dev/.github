@@ -62,7 +62,7 @@
 
 <h2>Projects</h2>
 <ul>
-  <li><a href="https://github.com/morsa-dev/memory-bank-local">memory-bank-local</a> - a local, cross-agent Memory Bank for coding agents</li>
+  <li><a href="https://github.com/morsa-dev/guidance-bank">guidance-bank</a> - a local tool for coding agents that generates and stores persistent rules, skills, and reusable project guidance</li>
   <li><a href="https://github.com/morsa-dev/mb-mcp">mb-mcp</a> - MCP server for agent integration</li>
 </ul>
 
